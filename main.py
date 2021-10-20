@@ -123,7 +123,7 @@ def main():
         elif optiune == "4":
             print(afisare_pare(list))
         elif optiune == "5":
-            print(test_lista_inlocuire_el(list))
+            print(lista_inlocuire_el(list))
         elif optiune == "x":
             break
         else:
